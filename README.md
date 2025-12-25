@@ -1,8 +1,19 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Learn about me ...
-- 📫 How to reach me: ...
+## Hi, I’m Shray 👋  
+
+Computer Engineering @ McMaster  
+Firmware Engineering Intern @ [Synopsys](https://www.synopsys.com/)
+Prev Data Engineering Intern @ [SunLife](https://www.sunlife.com/en/)
+Prev Systems Firmware Engineer Lead @ [MIST](https://mcmasterneudose.ca/) Satellite Club 
+
+Systems / firmware + ML systems  
+
+Currently working on:
+- C-based systems software for PCIe architectures  
+- Embedded firmware (STM32, FreeRTOS, CubeSat OBC)  
+- High-performance ML kernels (CUDA, SIMD, multithreading)  
+
+I like building things that sit close to the hardware and scale well.
+
 
 <!--
 **shraypatel/shraypatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
