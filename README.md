@@ -1,9 +1,9 @@
 ## Hi, I’m Shray 👋  
 
-Computer Engineering @ McMaster  
-Firmware Engineering Intern @ [Synopsys](https://www.synopsys.com/)
-Prev Data Engineering Intern @ [SunLife](https://www.sunlife.com/en/)
-Prev Systems Firmware Engineer Lead @ [MIST](https://mcmasterneudose.ca/) Satellite Club 
+- Computer Engineering @ McMaster  
+- Firmware Engineering Intern @ [Synopsys](https://www.synopsys.com/)
+- Prev Data Engineering Intern @ [SunLife](https://www.sunlife.com/en/)
+- Prev Systems Firmware Engineer Lead @ [MIST](https://mcmasterneudose.ca/) Satellite Club 
 
 Systems / firmware + ML systems  
 
